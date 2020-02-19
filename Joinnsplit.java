@@ -1,4 +1,6 @@
 import java.util.*;
+//wap to replace is by what in a given string
+
 class Joinnsplit{
 	public static void main(String []agr){
 		Scanner s=new Scanner (System.in);
